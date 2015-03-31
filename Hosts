@@ -1,4 +1,6 @@
-Ver:2015-03-31
+Ver:2015-03-30
+#Current Version 35
+
 #Microsoft OneDrive
 134.170.108.154    onedrive.live.com
 134.170.104.90    onedrive.live.com
@@ -11,8 +13,8 @@ Ver:2015-03-31
 134.170.104.104    skyapi.onedrive.live.com
 134.170.109.72    skyapi.onedrive.live.com
 #END odrv
+
 #Flickr
-#Note that hosts for flickr is unstable
 67.195.51.192    c1.staticflickr.com
 67.195.51.192    c2.staticflickr.com
 67.195.51.192    c3.staticflickr.com
@@ -20,63 +22,63 @@ Ver:2015-03-31
 67.195.51.192    c.staticflickr.com
 23.218.140.209    yui-s.yahooapis.com
 69.147.76.173    flickr.com
-124.108.101.10    www.flickr.com
 216.115.100.102    s.yimg.com
 208.71.44.31    m.flickr.com
 106.10.137.23    farm1.staticflickr.com
-98.139.18.218    bf1.farm1.staticflickr.com
+72.30.196.151    bf1.farm1.staticflickr.com
 68.142.214.43    mud.farm1.staticflickr.com
-77.238.160.184    ch1.farm1.staticflickr.com
+77.238.163.222    ch1.farm1.staticflickr.com
 106.10.137.23    sg3.farm1.staticflickr.com
 106.10.137.23    farm2.staticflickr.com
-98.139.18.219    bf1.farm2.staticflickr.com
+72.30.196.152    bf1.farm2.staticflickr.com
 69.147.90.159    sp1.farm2.staticflickr.com
-77.238.160.184    ch1.farm2.staticflickr.com
+77.238.163.222    ch1.farm2.staticflickr.com
 106.10.137.23    sg3.farm2.staticflickr.com
 106.10.137.23    farm3.staticflickr.com
 76.13.18.78    ac4.farm3.staticflickr.com
 69.147.90.215    sp1.farm3.staticflickr.com
-77.238.160.184    ch1.farm3.staticflickr.com
-106.10.137.123    sg3.farm3.staticflickr.com
+77.238.163.222    ch1.farm3.staticflickr.com
+106.10.137.23    sg3.farm3.staticflickr.com
 106.10.137.23    farm4.staticflickr.com
 76.13.18.77    ac4.farm4.staticflickr.com
-67.195.19.66    gq1.farm4.staticflickr.com
-77.238.169.184    ch1.farm4.staticflickr.com
+67.195.19.62    gq1.farm4.staticflickr.com
+77.238.163.222    ch1.farm4.staticflickr.com
 106.10.137.23    sg3.farm4.staticflickr.com
 106.10.137.23    farm5.staticflickr.com
 76.13.18.79    ac4.farm5.staticflickr.com
-67.195.19.74    gq1.farm5.staticflickr.com
-77.238.160.184    ch1.farm5.staticflickr.com
+67.195.19.65    gq1.farm5.staticflickr.com
+77.238.163.222    ch1.farm5.staticflickr.com
 106.10.137.23    sg3.farm5.staticflickr.com
 106.10.137.23    farm6.staticflickr.com
-98.139.197.254    bf1.farm6.staticflickr.com
-98.136.170.121    gq1.farm6.staticflickr.com
-77.238.160.184    ch1.farm6.staticflickr.com
+98.139.21.45    bf1.farm6.staticflickr.com
+67.195.19.65    gq1.farm6.staticflickr.com
+77.238.163.222    ch1.farm6.staticflickr.com
 106.10.137.23    sg3.farm6.staticflickr.com
 106.10.137.23    farm7.staticflickr.com
-98.139.102.46    bf1.farm7.staticflickr.com
-98.138.8.116    ne1.farm7.staticflickr.com
-77.238.160.184    ch1.farm7.staticflickr.com
+98.139.235.135    bf1.farm7.staticflickr.com
+98.138.250.88    ne1.farm7.staticflickr.com
+77.238.163.222    ch1.farm7.staticflickr.com
 106.10.137.23    sg3.farm7.staticflickr.com
 106.10.137.23    farm8.staticflickr.com
-98.137.200.139    bf1.farm8.staticflickr.com
-98.136.240.40    gq1.farm8.staticflickr.com
-77.238.160.184    ch1.farm8.staticflickr.com
+72.30.198.116    bf1.farm8.staticflickr.com
+216.39.54.35    gq1.farm8.staticflickr.com
+77.238.163.222    ch1.farm8.staticflickr.com
 106.10.137.23    sg3.farm8.staticflickr.com
 106.10.137.23    farm9.staticflickr.com
-98.137.205.126    bf1.farm9.staticflickr.com
-98.136.248.103    gq1.farm9.staticflickr.com
-77.238.160.184    ch1.farm9.staticflickr.com
+72.30.198.117    bf1.farm9.staticflickr.com
+216.39.54.36    gq1.farm9.staticflickr.com
+77.238.163.222    ch1.farm9.staticflickr.com
 106.10.137.23    sg3.farm9.staticflickr.com
 106.10.137.23    static.flickr.com
-119.161.24.27    www.flickr.com
-121.101.144.112    api.flickr.com
-119.161.24.27    up.flickr.com
-203.84.208.52    l.yimg.com
-208.71.44.31    secure.flickr.com
+217.12.13.41    www.flickr.com
+217.12.13.41    api.flickr.com
+217.12.13.41    up.flickr.com
+217.12.1.35    l.yimg.com
+217.12.13.40    secure.flickr.com
+#END flkr
 
 
-# Google Services inc G+ Gmail Drive бн
+# Google Services inc G+ Gmail Drive …
 # exc Youtube Videos
 
 # g-Alternative-IP
