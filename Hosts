@@ -154,6 +154,7 @@ Ver:2015-04-16
 # Yahoo Start
 106.10.136.195	de.yahoo.com
 106.10.137.175	geo.query.yahoo.com
+106.10.137.23	static.flickr.com
 106.10.138.240	hk.yahoo.com
 106.10.138.240	tw.yahoo.com
 106.10.138.240	www.yahoo.com
@@ -173,22 +174,49 @@ Ver:2015-04-16
 106.10.199.78	p.yimg.com
 106.10.199.78	s.yimg.com
 119.161.9.151	c5.ah.yahoo.com
+121.101.144.112	api.flickr.com
+121.101.144.116	up.flickr.com
+124.108.101.10	www.flickr.com
 124.108.120.124	sa.edit.yahoo.com
 124.108.97.193	login.yahoo.com
 204.0.5.34	us.js2.yimg.com
 204.0.5.35	content.yieldmanager.edgesuite.net
 206.190.39.139	hsrd.yahoo.com
+208.71.44.31	m.flickr.com
+208.71.44.31	secure.flickr.com
+209.191.105.102	adjax.flickr.yahoo.com
 209.191.92.115	edit.yahoo.com
+216.39.54.34	gq1.farm3.staticflickr.com
 23.62.109.75	us.js2.yimg.com
 66.163.168.247	open.login.yahoo.com
+67.195.19.62	gq1.farm4.staticflickr.com
+67.195.19.65	gq1.farm5.staticflickr.com
 68.142.196.57	c5.ah.yahoo.com
+68.142.214.43	farm1.staticflickr.com
+68.142.214.43	mud.farm1.staticflickr.com
 68.142.250.161	l.yimg.com
+69.147.76.173	flickr.com
+69.147.90.159	farm2.staticflickr.com
+69.147.90.159	sp1.farm2.staticflickr.com
+69.147.90.215	sp1.farm3.staticflickr.com
+76.13.18.77	ac4.farm4.staticflickr.com
+76.13.18.77	farm4.staticflickr.com
+76.13.18.79	farm5.staticflickr.com
+77.238.160.184	farm3.staticflickr.com
 77.238.184.150	ying.com
 96.6.93.227	s.yimg.com
 98.136.166.37	overview.mail.yahoo.com
+98.136.171.208	farm6.staticflickr.com
+98.136.171.208	gq1.farm6.staticflickr.com
 98.136.43.76	geo.yahoo.com
+98.137.205.236	bf1.farm3.staticflickr.com
 98.137.88.88	d.yimg.com
+98.138.250.88	farm7.staticflickr.com
+98.138.250.88	ne1.farm7.staticflickr.com
 98.138.253.109	yahoo.com
+98.138.47.63	y.analytics.yahoo.com
+98.139.21.45	bf1.farm6.staticflickr.com
+98.139.235.135	bf1.farm7.staticflickr.com
 # Yahoo End
 
 # DuckDuckGo Start
@@ -320,69 +348,6 @@ Ver:2015-04-16
 134.170.104.104    skyapi.onedrive.live.com
 134.170.109.72    skyapi.onedrive.live.com
 # END odrv
-
-# Flickr
-67.195.51.192    c1.staticflickr.com
-67.195.51.192    c2.staticflickr.com
-67.195.51.192    c3.staticflickr.com
-67.195.51.192    c4.staticflickr.com
-67.195.51.192    c.staticflickr.com
-23.218.140.209    yui-s.yahooapis.com
-69.147.76.173    flickr.com
-216.115.100.102    s.yimg.com
-208.71.44.31    m.flickr.com
-106.10.137.23    farm1.staticflickr.com
-72.30.196.151    bf1.farm1.staticflickr.com
-68.142.214.43    mud.farm1.staticflickr.com
-77.238.163.222    ch1.farm1.staticflickr.com
-106.10.137.23    sg3.farm1.staticflickr.com
-106.10.137.23    farm2.staticflickr.com
-72.30.196.152    bf1.farm2.staticflickr.com
-69.147.90.159    sp1.farm2.staticflickr.com
-77.238.163.222    ch1.farm2.staticflickr.com
-106.10.137.23    sg3.farm2.staticflickr.com
-106.10.137.23    farm3.staticflickr.com
-76.13.18.78    ac4.farm3.staticflickr.com
-69.147.90.215    sp1.farm3.staticflickr.com
-77.238.163.222    ch1.farm3.staticflickr.com
-106.10.137.23    sg3.farm3.staticflickr.com
-106.10.137.23    farm4.staticflickr.com
-76.13.18.77    ac4.farm4.staticflickr.com
-67.195.19.62    gq1.farm4.staticflickr.com
-77.238.163.222    ch1.farm4.staticflickr.com
-106.10.137.23    sg3.farm4.staticflickr.com
-106.10.137.23    farm5.staticflickr.com
-76.13.18.79    ac4.farm5.staticflickr.com
-67.195.19.65    gq1.farm5.staticflickr.com
-77.238.163.222    ch1.farm5.staticflickr.com
-106.10.137.23    sg3.farm5.staticflickr.com
-106.10.137.23    farm6.staticflickr.com
-98.139.21.45    bf1.farm6.staticflickr.com
-67.195.19.65    gq1.farm6.staticflickr.com
-77.238.163.222    ch1.farm6.staticflickr.com
-106.10.137.23    sg3.farm6.staticflickr.com
-106.10.137.23    farm7.staticflickr.com
-98.139.235.135    bf1.farm7.staticflickr.com
-98.138.250.88    ne1.farm7.staticflickr.com
-77.238.163.222    ch1.farm7.staticflickr.com
-106.10.137.23    sg3.farm7.staticflickr.com
-106.10.137.23    farm8.staticflickr.com
-72.30.198.116    bf1.farm8.staticflickr.com
-216.39.54.35    gq1.farm8.staticflickr.com
-77.238.163.222    ch1.farm8.staticflickr.com
-106.10.137.23    sg3.farm8.staticflickr.com
-106.10.137.23    farm9.staticflickr.com
-72.30.198.117    bf1.farm9.staticflickr.com
-216.39.54.36    gq1.farm9.staticflickr.com
-77.238.163.222    ch1.farm9.staticflickr.com
-106.10.137.23    sg3.farm9.staticflickr.com
-106.10.137.23    static.flickr.com
-217.12.13.41    www.flickr.com
-217.12.13.41    api.flickr.com
-217.12.13.41    up.flickr.com
-217.12.1.35    l.yimg.com
-217.12.13.40    secure.flickr.com
-# END flkr
 
 # Youtube
 # Youtube videos
